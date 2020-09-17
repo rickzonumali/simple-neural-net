@@ -1,3 +1,8 @@
+# Thank you to Milo Spencer-Harper on doing a fantastic work with this neuralnet.
+#https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
+
+
+
 # import libraries
 from numpy import exp, array, random, dot
 
